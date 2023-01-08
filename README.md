@@ -26,7 +26,7 @@ The dataset contain more than 800 pokemon ditributed in y generations with 13 co
 
 ![defense](https://user-images.githubusercontent.com/119113483/209659642-474fa8ca-00ee-49e9-8fff-eb1ac9938082.jpg)
 
-## Conclusions 🙇‍♀️
+## Conclusions 🙇🏻
 
 * Class 0 are those with normal defense ("we could say defensive")
 * Class 1 are more balanced in all lines
