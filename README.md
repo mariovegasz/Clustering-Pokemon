@@ -1,4 +1,5 @@
-# Clustering Pokemon
+# Clustering Pokemon 📊🟡🔴🟢
+
 Clustering of the 7 generations of Pokemon using machine learning predictive models like K-Means and DBSCAN
 
 ![top_pokemon_15-11-11](https://user-images.githubusercontent.com/119113483/209659848-b35dd99c-4111-4970-ab2f-a4b67138a0ec.jpg)
