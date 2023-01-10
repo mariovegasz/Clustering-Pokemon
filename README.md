@@ -21,7 +21,7 @@ Clustering of the 7 generations of Pokemon using machine learning predictive mod
 
 The dataset contain more than 800 pokemon ditributed in y generations with 13 columns (like name, type, attack, defense,...)
 
-## Clustering 🟡🔴🟢
+## Clustering Preview 🟡🔴🟢
 
 ![attack](https://user-images.githubusercontent.com/119113483/209659633-76ef7967-f010-4c58-a69e-a8e01361d757.jpg)
 
